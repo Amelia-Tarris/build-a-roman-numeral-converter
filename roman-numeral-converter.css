@@ -1,0 +1,20 @@
+#output {
+    text-align: center; 
+    margin-top: 20px; 
+    padding: 10px; 
+    border: 1px solid #7DF9FF; 
+  }
+  
+  body {
+    background-color: #000080;
+  }
+  
+  h1 {
+    Color: #7DF9FF;
+  }
+  
+  label {
+    Color: #7DF9FF
+  }
+  
+  
